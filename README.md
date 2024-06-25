@@ -9,6 +9,7 @@ For running this bot you must
 5: then go to web tab and click on reload button which is light blue
 
 
+گوز
 
                                                                    ---------------------------                          
                                                                    | NOW YOUR BOT IS COMPLETE |

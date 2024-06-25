@@ -10,6 +10,6 @@ For running this bot you must
 
 
 
-                                                                   ---------------------------                                                                  
+                                                                   ---------------------------                          
                                                                    | NOW YOUR BOT IS COMPLETE |
                                                                    ---------------------------

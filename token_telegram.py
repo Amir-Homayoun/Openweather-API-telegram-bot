@@ -1,1 +1,1 @@
-my_token='enter your telegram bot token' #maina
+my_token='enter your telegram bot token' #main

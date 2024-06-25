@@ -8,7 +8,7 @@ For running this bot you must
 4: upload these files in my_site directory
 5: then go to web tab and click on reload button which is light blue
   
-
+گوز
                                                                    ---------------------------                                                                  
                                                                    | NOW YOUR BOT IS COMPLETE |
                                                                    ---------------------------

@@ -1,6 +1,6 @@
 # Openweather-API-telegram-bot
 This bot is my first serious project
-
+oh my god
 For running this bot you must 
 1: go to botfather bot in telegram and create a bot
 2: copy token which you get in token_telegram.py 

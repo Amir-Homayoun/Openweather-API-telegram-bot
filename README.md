@@ -7,6 +7,7 @@ For running this bot you must
 3: go to python any where and create an acount
 4: upload these files in my_site directory
 5: then go to web tab and click on reload button which is light blue
+
                                                                    ---------------------------                          
                                                                    | NOW YOUR BOT IS COMPLETE |
                                                                    ---------------------------
